@@ -13,11 +13,17 @@ Not hard to add the length of the overlaps?
 
 SOAPBOX OFF
 
-related to (I think the long form is more useful then the fat form)
+
+github
+https://tinyurl.com/2xzu5ddj
+https://github.com/rogerjdeangelis/utl-identify-overlapping-drug-exposures-of-at-least-one-day-using-r-iranges-package
+
+communities.sas
+https://tinyurl.com/57n2m7ky
 https://communities.sas.com/t5/SAS-Enterprise-Guide/Dealing-with-overlaps-dates-for-drug-exposures/m-p/754485#M39127
 
-PROBLEM
 
+PROBLEM
                                   DAYS
 ID-RX     2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20    ID-RX
        ---+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+--+---
