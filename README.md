@@ -14,10 +14,14 @@ Identify overlapping drug exposures of at least one day using r iranges package
     Not hard to add the length of the overlaps?
 
     SOAPBOX OFF
+     github
+     https://tinyurl.com/2xzu5ddj
+     https://github.com/rogerjdeangelis/utl-identify-overlapping-drug-exposures-of-at-least-one-day-using-r-iranges-package
 
-    related to (I think the long form is more useful then the fat form)
-    https://communities.sas.com/t5/SAS-Enterprise-Guide/Dealing-with-overlaps-dates-for-drug-exposures/m-p/754485#M39127
-
+     communities.sas
+     https://tinyurl.com/57n2m7ky
+     https://communities.sas.com/t5/SAS-Enterprise-Guide/Dealing-with-overlaps-dates-for-drug-exposures/m-p/754485#M39127
+ 
     PROBLEM
 
                                       DAYS
